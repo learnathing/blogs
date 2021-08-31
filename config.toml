@@ -1,5 +1,5 @@
 title = "my blog"
-baseURL = "https://example.com"
+baseURL = "https://stupefied-hopper-9bfdd8.netlify.app"
 languageCode = "zh-cn"
 theme = "ananke"
 
